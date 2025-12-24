@@ -1,0 +1,9 @@
+{
+"DESIGN_NAME": "calculator",
+"VERILOG_FILES": "dir::src/calculator.v",
+"CLOCK_PORT": "clk",
+"CLOCK_PERIOD": 10.0,
+"DIE_AREA": "0 0 200 200",
+"FP_CORE_UTIL": 40,
+"PL_TARGET_DENSITY": 0.5
+}
